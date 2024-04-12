@@ -9,7 +9,7 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: #CDF5FD;
+    background-color: #fff;
   }
   .dropdown-menu {
     position: absolute;
@@ -19,7 +19,7 @@ nav {
     display: none;
     min-width: 120px;
     padding: 8px 0;
-    background-color: #CDF5FD;
+    background-color: #fff;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     border-radius: 4px;
   }
@@ -46,7 +46,7 @@ nav {
   }
   
   .dropdown-menu li a:hover {
-    color: #2190ff;
+    color: #3685fb;
   }
   .nav__logo {
     font-size: 2rem;
@@ -109,7 +109,7 @@ nav {
       left: 0;
       width: 100%;
       margin: auto;
-      background-color: #CDF5FD;
+      background-color: #fff;
       flex-direction: column;
       align-items: center;
       padding: 1rem 0;
@@ -158,4 +158,3 @@ nav {
     background-color: #3685fb;
     color: white;
   }
-  
