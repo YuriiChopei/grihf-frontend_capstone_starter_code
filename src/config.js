@@ -1,5 +1,9 @@
-export const API_URL = window.location.origin === "localhost" ? "yurachopey97-8181.theiadockernext-0-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai/" : "yurachopey97-8181.theiadockernext-0-labs-prod-theiak8s-4-tor01.proxy.cognitiveclass.ai/";
+export const API_URL = window.location.origin
+
 console.log(
+
     "API_URL :",
+
     API_URL
+
 );
