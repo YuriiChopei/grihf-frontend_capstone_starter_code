@@ -1,107 +1,16 @@
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
 # Medical Appointment Booking Website
 
-## Overview
-
-This repository contains the frontend codebase for the Medical Appointment Booking website. The website aims to streamline the process of scheduling medical appointments for patients and managing appointments for healthcare providers.
+Welcome to the Medical Appointment Booking website! This web application allows users to book appointments with healthcare professionals easily.
 
 ## Features
 
-- **User Authentication**: Users can sign up, log in, and manage their accounts securely.
-- **Appointment Booking**: Patients can schedule appointments with healthcare providers based on availability.
-- **Appointment Management**: Healthcare providers can view and manage their appointments, including scheduling, rescheduling, and canceling appointments.
-- **Notification System**: Automated notifications for appointment reminders and updates.
-- **Search Functionality**: Users can search for healthcare providers based on various criteria such as specialization, location, and availability.
-- **Responsive Design**: The website is optimized for various devices including desktops, tablets, and mobile phones.
+- **User Authentication:** Users can sign up for an account and log in securely to manage their appointments.
+- **Appointment Booking:** Users can search for doctors based on specialization and location, view their availability, and book appointments.
+- **Profile Management:** Users can update their profile information, including name, email, and phone number.
+- **Health Blog:** Access to informative articles and resources related to healthcare and wellness.
+- **Instant Consultation:** Get immediate consultation with healthcare professionals through chat or video calls.
+- **Review System:** Users can leave reviews and ratings for healthcare professionals they've visited.
 
-## Technologies Used
+## Notes
 
-- **Frontend**:
-  - HTML5
-  - CSS3
-  - JavaScript (ES6+)
-  - React.js
-
-- **Backend** (not included in this repository):
-  - Node.js
-  - Express.js
-  - MongoDB
-
-## Getting Started
-
-1. Clone this repository:
-
-   ```bash
-   git clone <https://github.com/YuriiChopei/grihf-frontend_capstone_starter_code.git>
-
+- This project is for educational purposes only.
